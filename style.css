@@ -1,0 +1,32 @@
+html {
+  background-image: url("img/wintery-sunburst.svg");
+  background-size: 75%;
+  color: white;
+}
+
+img {
+  height: 30%;
+  width: 30%;
+  position: relative left;
+  margin-left: 250px;
+  margin-top: -260px;
+}
+
+h1 {
+  position: relative right;
+  margin-left: 700px;
+  margin-top: 125px;
+  font-family: "Butterfly Kids";
+  font-size: 80px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 900;
+  margin-left: 700px;
+  margin-right: 50px;
+  line-height: 30px;
+}
